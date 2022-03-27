@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0f7a06e8-ca91-215f-e849-5bf3e6f7d7b2
 resourcetype: Document
 title: "\u201CLa Lengua de las mariposas\u201D  tarea para el martes:"
 uid: 78a1587b-9cef-e511-59ec-0185cdf6bded

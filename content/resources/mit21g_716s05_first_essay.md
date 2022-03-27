@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0f7a06e8-ca91-215f-e849-5bf3e6f7d7b2
 resourcetype: Document
 title: Contemporary Hispanic Literature
 uid: d32493a2-9a87-02d8-1244-e49b07022d6d

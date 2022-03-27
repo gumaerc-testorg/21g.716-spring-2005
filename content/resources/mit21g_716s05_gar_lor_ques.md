@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0f7a06e8-ca91-215f-e849-5bf3e6f7d7b2
 resourcetype: Document
 title: Bodas de sangre
 uid: b1a3d4e8-7b33-b4dd-93dd-e33feaf1b9e6

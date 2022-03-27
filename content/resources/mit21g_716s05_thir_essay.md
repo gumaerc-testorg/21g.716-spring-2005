@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0f7a06e8-ca91-215f-e849-5bf3e6f7d7b2
 resourcetype: Document
 title: "La plaza del diamante de Merc\xE9 Rodoreda"
 uid: accedadf-0d46-4753-69e9-f9d813a182a9

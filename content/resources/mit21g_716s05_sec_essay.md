@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0f7a06e8-ca91-215f-e849-5bf3e6f7d7b2
 resourcetype: Document
 title: 'Introduction to Contemporary Hispanic Literature:  Second essay:  Please hand-
   in hard copy  on my door by 5 PM,  Friday, April'
