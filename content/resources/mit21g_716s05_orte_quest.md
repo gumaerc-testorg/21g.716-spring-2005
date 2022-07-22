@@ -6,6 +6,7 @@ file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "\u201CLa Rebeli\xF3n de las masas\u201D"
 uid: 4414e76c-de8d-d6fc-8f25-968e95407574
 ---
 This resource contains the information regarding la rebelión de las masas.
-

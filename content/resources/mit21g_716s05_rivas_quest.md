@@ -6,6 +6,7 @@ file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "\u201CLa Lengua de las mariposas\u201D  tarea para el martes:"
 uid: 78a1587b-9cef-e511-59ec-0185cdf6bded
 ---
 This resource contains the information regarding la lengua de las mariposas tarea para el martes.
-

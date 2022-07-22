@@ -5,6 +5,7 @@ file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: La plaza del diamante
 uid: 1f0cd159-6b42-5bed-c17a-276164818a28
 ---
 This resource contains the information regarding la plaza del diamante.
-

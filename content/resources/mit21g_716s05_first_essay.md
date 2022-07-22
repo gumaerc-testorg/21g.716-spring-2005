@@ -6,6 +6,7 @@ file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Contemporary Hispanic Literature
 uid: d32493a2-9a87-02d8-1244-e49b07022d6d
 ---
 This resource contains the information regarding contemporary hispanic literature.
-

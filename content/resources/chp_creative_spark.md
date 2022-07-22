@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_creative_spark.jpg
 uid: 980856da-26ed-723b-18b4-4d2c2ed51604
 ---
 Still Life before an Open Window: Place Ravignan, oil on canvas by Juan Gris, 1915; in Philadelphia Museum of Art. (Image courtesy of the WebMuseum Web site.)
-

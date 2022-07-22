@@ -7,6 +7,7 @@ file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Introduction to Contemporary Hispanic Literature:  Second essay:  Please
 uid: 9b6f94b7-b49d-77f3-9516-bebbc7ebdf26
 ---
 This resource contains the information regarding introduction to contemporary hispanic literature second essay please hand in hard copy on my door by 5 PM,  friday, april.
-

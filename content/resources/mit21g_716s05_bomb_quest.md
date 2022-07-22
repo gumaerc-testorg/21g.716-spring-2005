@@ -6,6 +6,7 @@ file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Homework Assignment on Bombal
 uid: f1387e01-a100-db1a-0fec-982e2961b430
 ---
 This resource contains the information regarding homework assignment on bombal.
-
