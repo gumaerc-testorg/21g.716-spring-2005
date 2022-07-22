@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on class projects along with videos
+  of student presentations recorded during spring of 2005.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 4498099f-fa5e-b6f6-4dd2-df967279ac35
 ---
