@@ -19,7 +19,7 @@ Student Presentations
 
 During the spring of 2005, student presentations were recorded especially for OpenCourseWare. Below are links to the videos.  The video in this section appears courtesy of the student presenters and discussants (Mariana Baca, Gabriel Becerra, Joelle Brichard, Kendra Ann Bussey, Bridget Downey, Esteban Felix, Caitlin Johnson, Anna Konotchick, Josue Martinez, Jose Martinez, Alexandra Nelson, Daniel Nunez, Dayan Paez, Juliana Perez, Orlando Soto, Lucia Vielma, Armanda Valdes, Mary Williamson) and Prof. Resnick.
 
-Video: ([MP4 - 101 MB](https://archive.org/download/MIT21F.716S05/ocw-21f.716-14n-313-10may2005-220k.mp4))
+Video: ({{% resource_link "c7d53610-952a-4f14-9b48-12e4eec30c87" "MP4 - 101 MB" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
