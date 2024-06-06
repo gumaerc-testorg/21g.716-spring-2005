@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains the information regarding la rebeli\xF3n de las\
   \ masas."
 file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/4414e76cde8dd6fc8f25968e95407574_MIT21G_716S05_orte_quest.pdf
+file_size: 113482
 file_type: application/pdf
 learning_resource_types:
 - Assignments
