@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding bodas de sangre.
 file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/b1a3d4e87b33b4dd93dde33feaf1b9e6_MIT21G_716S05_gar_lor_ques.pdf
+file_size: 113098
 file_type: application/pdf
 learning_resource_types:
 - Assignments

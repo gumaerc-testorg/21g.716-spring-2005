@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding intro to contemporary
   hispanic Lit.
 file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/503610a493d29547fa0e7fa853ce19cd_MIT21G_716S05_mar_gai_que.pdf
+file_size: 116623
 file_type: application/pdf
 learning_resource_types:
 - Assignments
