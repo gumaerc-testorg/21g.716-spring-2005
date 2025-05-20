@@ -3,7 +3,7 @@ content_type: resource
 description: 'Still Life before an Open Window: Place Ravignan, oil on canvas by Juan
   Gris, 1915; in Philadelphia Museum of Art. (Image courtesy of the WebMuseum Web
   site.)'
-file: /ol-ocw-studio-app/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/980856da26ed723b18b44d2c2ed51604_chp_creative_spark.jpg
+file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/980856da26ed723b18b44d2c2ed51604_chp_creative_spark.jpg
 file_size: 61899
 file_type: image/jpeg
 image_metadata:
