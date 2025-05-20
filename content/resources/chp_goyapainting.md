@@ -2,7 +2,7 @@
 content_type: resource
 description: The Shootings of May Third 1808 by Francisco Goya (1814). (Image is taken
   from Web Museum Web site.)
-file: /ol-ocw-studio-app/courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/b552df9681629aa91e930f444820fa39_chp_goyapainting.jpg
+file: /courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005/b552df9681629aa91e930f444820fa39_chp_goyapainting.jpg
 file_size: 22955
 file_type: image/jpeg
 image_metadata:
