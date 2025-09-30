@@ -40,12 +40,12 @@ Neruda, Pablo. San Francisco, CA: City Lights Books, 2004. ISBN: 0872864286.
 Movies
 ------
 
-Alea, Tomás Gutiérrez, and Juan Carlos Tabío. "[Guantanamera](http://www.imdb.com/title/tt0109949/)." 1995.
+Alea, Tomás Gutiérrez, and Juan Carlos Tabío. "{{% resource_link "cfb51b6c-8991-4419-b2ae-fb2085093961" "Guantanamera" %}}." 1995.
 
-Babenco, Hector. "[El Beso de la mujer araña](https://www.imdb.com/title/tt0089424/?ref_=fn_al_tt_1)." 1985.
+Babenco, Hector. "{{% resource_link "ac0ab7a6-4830-492d-924f-6caaec443bc9" "El Beso de la mujer araña" %}}." 1985.
 
-Cuerda, José Luis. "[La Lengua de las mariposas](http://www.imdb.com/title/tt0188030/)." 1999.
+Cuerda, José Luis. "{{% resource_link "3c600eb6-cfc6-47da-9543-dadf63d23184" "La Lengua de las mariposas" %}}." 1999.
 
-Betriú, Francisco. "[La Plaza del diamante](http://www.imdb.com/title/tt0082917/)." 1982.
+Betriú, Francisco. "{{% resource_link "807a60a9-b498-4ff3-a262-ce7903a5111c" "La Plaza del diamante" %}}." 1982.
 
-Buñuel, Luis. "[Un chien andalou](http://www.imdb.com/title/tt0020530/)." 1929.
+Buñuel, Luis. "{{% resource_link "b502b158-949f-4f0b-8f8e-32921f352a5f" "Un chien andalou" %}}." 1929.
